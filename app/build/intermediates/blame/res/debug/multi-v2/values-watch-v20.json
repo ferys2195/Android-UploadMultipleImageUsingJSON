@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/fery21irawan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/07c24d5ed2fc790824256dc50ceb2941/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

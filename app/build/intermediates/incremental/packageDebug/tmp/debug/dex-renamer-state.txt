@@ -1,0 +1,4 @@
+#Wed Dec 19 11:06:14 WIB 2018
+base.0=/media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

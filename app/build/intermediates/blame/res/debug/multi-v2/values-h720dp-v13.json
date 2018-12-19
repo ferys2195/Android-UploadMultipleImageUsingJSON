@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/fery21irawan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/07c24d5ed2fc790824256dc50ceb2941/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/res/values-v19/values-v19.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,113,169,225,289,331",
+                        "endColumns": "57,55,55,63,41,46",
+                        "endOffsets": "108,164,220,284,326,373"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:2:1-26:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/android-networking-1.0.2.aar/cec9f9be44b3cbf16c68a35c5b99eb10/AndroidManifest.xml:18:1-27:12
+MERGED from [com.android.support:design:27.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2884927f5a873c5eccfde642615509f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/07c24d5ed2fc790824256dc50ceb2941/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/33c093689a409f52ca7e8e6f8c506d6e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/a8dbdd245e2026f1440a2078cfac82c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2ae9d29144a707695a513adde5a9954a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/5c9cc5c77edb6f89703eca91aa586ead/AndroidManifest.xml:17:1-22:12
+MERGED from [io.fotoapparat.fotoapparat:library:2.3.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/library-2.3.1.aar/27c38b325354500230c0a8ff6804fbd8/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:transition:27.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/fe99a4ca4a64da687bcc2eb453e9bf49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/5e5a30a62879ba3dbfdd2309cea66d3d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/7ed167e8c92c1c45c5ff0a9500eb3a62/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7eee5c747f092655bbc2b1284aeac558/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/11278418ab0fa6ffde9ee324556df3dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cc38e64d65524c9e66361822509bf4c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/524b3baab8a727c1662892033487ba76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8a30929f892ea136dbfe82a4b27ef554/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2493c313468fb6a2bbfa3a489629b598/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7c7f9634ead6c392d0dc7ff7643216fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a7c9367c6ee6aaa56888cd5327d14f0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/23b36f83993a985e0ce4f107a0d872f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d89913468048db1131cc94d10b0bd9ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/01a90e8045623a4bb825db3c47d4f016/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fa51f4f7aefabffc3efe1a243b49d3c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a551081430da21b8fcccb0f8bba72c83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a347d9a7f3e8e73005f8c479378e0202/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b081dee595c514f2a70b09ec95585517/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/113df15a9b457ec85808f4e4bbb4c991/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3635e5d7764d813034d6dd1bddf92124/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5ef7707567e4cbbd644d808934454e81/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bf6e1258bc3daf4df5677a92f16b7879/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3ff458841ef1ab786f971c7d566567c6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e68bb10bc5379b6763b309ff9847f7f0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bd858ccd065631a7362bdaade780487a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7c70e0252596a4d9d9de4d1e531c23db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2377a44c7d9ee1e7f3f3ddd4cfa02097/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fa6982aca087e39deb903c79dcaf038d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7541d4853095ea270cc34c7ced323cf7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fb3bc715246570f16b8df39d1cb3c30b/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+		INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:4:1-62
+	android:name
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:4:18-60
+application
+ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:16:5-24:19
+MERGED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:16:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/33c093689a409f52ca7e8e6f8c506d6e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/33c093689a409f52ca7e8e6f8c506d6e/AndroidManifest.xml:9:5-20
+MERGED from [io.fotoapparat.fotoapparat:library:2.3.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/library-2.3.1.aar/27c38b325354500230c0a8ff6804fbd8/AndroidManifest.xml:11:5-20
+MERGED from [io.fotoapparat.fotoapparat:library:2.3.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/library-2.3.1.aar/27c38b325354500230c0a8ff6804fbd8/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/5e5a30a62879ba3dbfdd2309cea66d3d/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/5e5a30a62879ba3dbfdd2309cea66d3d/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/7ed167e8c92c1c45c5ff0a9500eb3a62/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/7ed167e8c92c1c45c5ff0a9500eb3a62/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/113df15a9b457ec85808f4e4bbb4c991/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/113df15a9b457ec85808f4e4bbb4c991/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3635e5d7764d813034d6dd1bddf92124/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3635e5d7764d813034d6dd1bddf92124/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/113df15a9b457ec85808f4e4bbb4c991/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:9:9-54
+	android:largeHeap
+		ADDED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:17:9-33
+	android:icon
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:11:9-40
+activity#as.cv.jsonparse.MainActivity
+ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+MERGED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/android-networking-1.0.2.aar/cec9f9be44b3cbf16c68a35c5b99eb10/AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/android-networking-1.0.2.aar/cec9f9be44b3cbf16c68a35c5b99eb10/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:design:27.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2884927f5a873c5eccfde642615509f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2884927f5a873c5eccfde642615509f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/07c24d5ed2fc790824256dc50ceb2941/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/07c24d5ed2fc790824256dc50ceb2941/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/33c093689a409f52ca7e8e6f8c506d6e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/33c093689a409f52ca7e8e6f8c506d6e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/a8dbdd245e2026f1440a2078cfac82c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/a8dbdd245e2026f1440a2078cfac82c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2ae9d29144a707695a513adde5a9954a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2ae9d29144a707695a513adde5a9954a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/5c9cc5c77edb6f89703eca91aa586ead/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/5c9cc5c77edb6f89703eca91aa586ead/AndroidManifest.xml:20:5-44
+MERGED from [io.fotoapparat.fotoapparat:library:2.3.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/library-2.3.1.aar/27c38b325354500230c0a8ff6804fbd8/AndroidManifest.xml:5:5-7:41
+MERGED from [io.fotoapparat.fotoapparat:library:2.3.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/library-2.3.1.aar/27c38b325354500230c0a8ff6804fbd8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:27.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/fe99a4ca4a64da687bcc2eb453e9bf49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/fe99a4ca4a64da687bcc2eb453e9bf49/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/5e5a30a62879ba3dbfdd2309cea66d3d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/5e5a30a62879ba3dbfdd2309cea66d3d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/7ed167e8c92c1c45c5ff0a9500eb3a62/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/7ed167e8c92c1c45c5ff0a9500eb3a62/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7eee5c747f092655bbc2b1284aeac558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7eee5c747f092655bbc2b1284aeac558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/11278418ab0fa6ffde9ee324556df3dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/11278418ab0fa6ffde9ee324556df3dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cc38e64d65524c9e66361822509bf4c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cc38e64d65524c9e66361822509bf4c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/524b3baab8a727c1662892033487ba76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/524b3baab8a727c1662892033487ba76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8a30929f892ea136dbfe82a4b27ef554/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8a30929f892ea136dbfe82a4b27ef554/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2493c313468fb6a2bbfa3a489629b598/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2493c313468fb6a2bbfa3a489629b598/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7c7f9634ead6c392d0dc7ff7643216fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7c7f9634ead6c392d0dc7ff7643216fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a7c9367c6ee6aaa56888cd5327d14f0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a7c9367c6ee6aaa56888cd5327d14f0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/23b36f83993a985e0ce4f107a0d872f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/23b36f83993a985e0ce4f107a0d872f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d89913468048db1131cc94d10b0bd9ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d89913468048db1131cc94d10b0bd9ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/01a90e8045623a4bb825db3c47d4f016/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/01a90e8045623a4bb825db3c47d4f016/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fa51f4f7aefabffc3efe1a243b49d3c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fa51f4f7aefabffc3efe1a243b49d3c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a551081430da21b8fcccb0f8bba72c83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a551081430da21b8fcccb0f8bba72c83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a347d9a7f3e8e73005f8c479378e0202/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a347d9a7f3e8e73005f8c479378e0202/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b081dee595c514f2a70b09ec95585517/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b081dee595c514f2a70b09ec95585517/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/113df15a9b457ec85808f4e4bbb4c991/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/113df15a9b457ec85808f4e4bbb4c991/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3635e5d7764d813034d6dd1bddf92124/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3635e5d7764d813034d6dd1bddf92124/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5ef7707567e4cbbd644d808934454e81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5ef7707567e4cbbd644d808934454e81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bf6e1258bc3daf4df5677a92f16b7879/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bf6e1258bc3daf4df5677a92f16b7879/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3ff458841ef1ab786f971c7d566567c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3ff458841ef1ab786f971c7d566567c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e68bb10bc5379b6763b309ff9847f7f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e68bb10bc5379b6763b309ff9847f7f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bd858ccd065631a7362bdaade780487a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bd858ccd065631a7362bdaade780487a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7c70e0252596a4d9d9de4d1e531c23db/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7c70e0252596a4d9d9de4d1e531c23db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2377a44c7d9ee1e7f3f3ddd4cfa02097/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2377a44c7d9ee1e7f3f3ddd4cfa02097/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fa6982aca087e39deb903c79dcaf038d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fa6982aca087e39deb903c79dcaf038d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7541d4853095ea270cc34c7ced323cf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7541d4853095ea270cc34c7ced323cf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fb3bc715246570f16b8df39d1cb3c30b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fb3bc715246570f16b8df39d1cb3c30b/AndroidManifest.xml:20:5-44
+INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+		INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+		ADDED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+		INJECTED from /media/fery21irawan/Source Code/Baru/2018/Des2018/JSONParse/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:11:5-65
+MERGED from [io.fotoapparat.fotoapparat:library:2.3.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/library-2.3.1.aar/27c38b325354500230c0a8ff6804fbd8/AndroidManifest.xml:9:5-65
+MERGED from [io.fotoapparat.fotoapparat:library:2.3.1] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/library-2.3.1.aar/27c38b325354500230c0a8ff6804fbd8/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:13:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:14:22-78
+activity#com.fxn.pix.Pix
+ADDED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:19:9-23:50
+	android:screenOrientation
+		ADDED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:22:13-49
+	android:noHistory
+		ADDED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:21:13-37
+	android:theme
+		ADDED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from [com.fxn769:pix:1.2.5] /home/fery21irawan/.gradle/caches/transforms-1/files-1.1/pix-1.2.5.aar/67d1667b2d25d3fff68acc34f59a49d8/AndroidManifest.xml:20:13-43
