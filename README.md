@@ -1,9 +1,8 @@
-# Upload-Image-Multiple-With-JSON
-Library yang digunakan :
-# interface uploading image like whatsapp
+# Upload-Multiple-Image-Using-JSON
+## Libraries used :
+### INTERFACE UPLOADING IMAGE LIKE WHATSAPP
 https://github.com/akshay2211/PixImagePicker.git 
-# http request
+### HTTP CLIENT
 https://github.com/amitshekhariitbhu/Fast-Android-Networking.git
-
-# this for server side
-https://raw.githubusercontent.com/sampitdev/server-side/master/des18_4.php
+### SERVER SIDE SCRIPT
+https://gist.github.com/fery21irawan/a86422f252af3dc3df545e5d21614c1b
